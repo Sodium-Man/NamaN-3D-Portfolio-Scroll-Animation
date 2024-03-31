@@ -120,10 +120,7 @@ const skills = [
     title: "MongoDB",
     level: 100,
   },
-  {
-    title: "Git",
-    level: 100,
-  },  
+  
   {
     title: "Docker",
     level: 100,
@@ -131,16 +128,20 @@ const skills = [
 ];
 const languages = [
   {
-    title: "🇫🇷 French",
+    title: "🇺🇸 English",
     level: 100,
   },
   {
-    title: "🇺🇸 English",
-    level: 80,
+    title: "🇮🇳 Hindi",
+    level: 100,
   },
   {
-    title: "🇯🇵 Japanese",
-    level: 20,
+    title: "🇩🇪 German",
+    level: 75,
+  },
+  {
+    title: "🇫🇷 French",
+    level: 50,
   },
 ];
 
