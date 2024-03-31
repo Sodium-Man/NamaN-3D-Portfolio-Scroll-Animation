@@ -46,7 +46,7 @@ const AboutSection = () => {
       <h1 className="text-6xl font-extrabold leading-snug">
         Hi, I'm
         <br />
-        <span className="bg-white px-1 italic">Wawa Sensei</span>
+        <span className="bg-white px-1 italic">NamaN Bhalani</span>
       </h1>
       <motion.p
         className="text-lg text-gray-600 mt-4"
@@ -63,9 +63,11 @@ const AboutSection = () => {
           delay: 1.5,
         }}
       >
-        I make YouTube videos to help developers
+        A passionate creator, developer and enthusiast,
         <br />
-        learn how to build 3D apps
+        weaving pixels into digital tapestries,
+        <br />
+        one line of code at a time
       </motion.p>
       <motion.button
         className={`bg-indigo-600 text-white py-4 px-8 
