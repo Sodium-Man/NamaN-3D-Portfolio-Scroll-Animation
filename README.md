@@ -1,4 +1,12 @@
-![Thumbnail video tutorial](https://github.com/wass08/r3f-portfolio-scroll-animations/assets/6551176/3afa55c2-5176-431c-8813-46fcf98f3aa6)
+# Scroll Animation using Framer Motion
 
-[Video tutorial](https://youtu.be/0e0J0mmvr1k)
+```
+yarn
+yarn dev
 
+OR
+
+npm install
+npm run dev
+```
+![image](https://github.com/Sodium-Man/NamaN-3D-Portfolio-Scroll-Animation/assets/110275891/c6119dac-dfa9-4666-9a34-898f499a1ba2)
