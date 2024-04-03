@@ -795,9 +795,9 @@ camera-controls@^2.4.2:
   integrity sha512-6+gaZFK3LYbWaXC94EN0BYLlvpo9xfUqwp59vsU3nV7WXIU05q4wyP5TOgyG1tqTHReuBofb20vKfZNBNjMtzw==
 
 caniuse-lite@^1.0.30001449, caniuse-lite@^1.0.30001464:
-  version "1.0.30001495"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001495.tgz"
-  integrity sha512-F6x5IEuigtUfU5ZMQK2jsy5JqUUlEFRVZq8bO2a+ysq5K7jD6PPc9YXZj78xDNS3uNchesp1Jw47YXEqr+Viyg==
+  version "1.0.30001605"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001605.tgz"
+  integrity sha512-nXwGlFWo34uliI9z3n6Qc0wZaf7zaZWA1CPZ169La5mV3I/gem7bst0vr5XQH5TJXZIMfDeZyOrZnSlVzKxxHQ==
 
 chalk@^2.0.0:
   version "2.4.2"
